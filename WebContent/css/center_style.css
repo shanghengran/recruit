@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#update_photo{
+     display: none;
+ }
+#update_password{
+    display: none;
+}
+.Pimg{
+    width: 60px;
+    height: 60px;
+    margin-left:20px;
+    border-radius: 25px;
+}
